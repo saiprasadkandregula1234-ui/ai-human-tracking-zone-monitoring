@@ -77,4 +77,3 @@ Visual Output
 
 - 🎥 **Project Demo:** https://drive.google.com/drive/folders/1L0SALYJ7LOr59auK7zH9cZDlm_3_MQDC?usp=drive_link
 - 💼 **LinkedIn:** www.linkedin.com/in/sai-prasad-kandregula-a35713224
-- 💻 **GitHub:** 
