@@ -76,5 +76,5 @@ Visual Output
 ## 🔗 Project Links
 
 - 🎥 **Project Demo:** https://drive.google.com/drive/folders/1L0SALYJ7LOr59auK7zH9cZDlm_3_MQDC?usp=drive_link
-- 💼 **LinkedIn:** [View LinkedIn Profile]www.linkedin.com/in/sai-prasad-kandregula-a35713224
-- 💻 **GitHub:** [View Repository](YOUR_GITHUB_REPOSITORY_URL)
+- 💼 **LinkedIn:** www.linkedin.com/in/sai-prasad-kandregula-a35713224
+- 💻 **GitHub:** 
