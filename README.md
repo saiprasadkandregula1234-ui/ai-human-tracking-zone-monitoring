@@ -1,8 +1,6 @@
 # 🚀 YOLOv8 + DeepSORT | Human Tracking & Zone Monitoring
 
-\<p align="center">   \<b>AI-Powered Real-Time Human Detection, Multi-Object Tracking & Zone Occupancy Monitoring\</b> \</p>
-
-\<p align="center">   \<a href="[https://www.python.org/](https://www.python.org/)">Python\</a> •   \<a href="[https://docs.ultralytics.com/](https://docs.ultralytics.com/)">YOLOv8\</a> •   \<a href="[https://github.com/levan92/deep_sort_realtime](https://github.com/levan92/deep_sort_realtime)">DeepSORT\</a> •   \<a href="[https://opencv.org/](https://opencv.org/)">OpenCV\</a> •   \<a href="[https://numpy.org/](https://numpy.org/)">NumPy\</a> \</p>
+**AI-Powered Real-Time Human Detection, Multi-Object Tracking & Zone Occupancy Monitoring**
 
 ---
 
@@ -34,30 +32,28 @@ The system assigns unique tracking IDs to individuals, monitors their movement w
 ## ⚙️ System Workflow
 
 ```text
-       Input Video
-            ↓
-     YOLOv8 Detection
-            ↓
-     Person Filtering
-            ↓
-    DeepSORT Tracking
-            ↓
-     Unique ID Assignment
-            ↓
-   Polygon-Based Zone Detection
-            ↓
-   Inside / Outside Classification
-            ↓
-   Real-Time Occupancy Counting
-            ↓
-      Visual Output
+Input Video
+     ↓
+YOLOv8 Detection
+     ↓
+Person Filtering
+     ↓
+DeepSORT Tracking
+     ↓
+Unique ID Assignment
+     ↓
+Polygon-Based Zone Detection
+     ↓
+Inside / Outside Classification
+     ↓
+Real-Time Occupancy Counting
+     ↓
+Visual Output
 ```
 
 ## 🎥 Project Demonstration
 
-\<p align="center">   \<b>▶ Watch the Real-Time Project Demo\</b> \</p>
-
-\<p align="center">   \<a href="[https://drive.google.com/drive/folders/1L0SALYJ7LOr59auK7zH9cZDlm_3_MQDC?usp=sharing](https://drive.google.com/drive/folders/1L0SALYJ7LOr59auK7zH9cZDlm_3_MQDC?usp=sharing)">     \<img src="[https://img.shields.io/badge/▶\_Watch_Project_Demo-FF0000?style=for-the-badge&logo=google-drive&logoColor=white](https://img.shields.io/badge/▶_Watch_Project_Demo-FF0000?style=for-the-badge\&logo=google-drive\&logoColor=white)"/>   \</a> \</p>
+▶️ **Watch the Real-Time Project Demo on Google Drive** https://drive.google.com/drive/folders/1L0SALYJ7LOr59auK7zH9cZDlm_3_MQDC?usp=drive_link
 
 ## 🌍 Real-World Applications
 
@@ -77,4 +73,8 @@ The system assigns unique tracking IDs to individuals, monitors their movement w
 
 ---
 
-\<p align="center">   \<b>⭐ If you find this project interesting, consider giving it a star!\</b> \</p>
+## 🔗 Project Links
+
+- 🎥 **Project Demo:** https://drive.google.com/drive/folders/1L0SALYJ7LOr59auK7zH9cZDlm_3_MQDC?usp=drive_link
+- 💼 **LinkedIn:** [View LinkedIn Profile]www.linkedin.com/in/sai-prasad-kandregula-a35713224
+- 💻 **GitHub:** [View Repository](YOUR_GITHUB_REPOSITORY_URL)
